@@ -124,7 +124,7 @@ endif
 hi Cursor 		guifg=NONE    guibg=#656565 gui=none
 hi CursorLine	guibg=#212628
 hi Normal 		guifg=#eeeeee guibg=#222222 gui=none
-hi NonText 		guifg=#808080 guibg=#303030 gui=none
+hi NonText 		guifg=#808080 guibg=#262626 gui=none
 hi LineNr 		guifg=#474038 guibg=#000000 gui=none
 hi StatusLine 	guifg=#f6f3e8 guibg=#000000 gui=italic
 hi StatusLineNC guifg=#857b6f guibg=#000000 gui=none
@@ -132,13 +132,13 @@ hi VertSplit 	guifg=#444444 guibg=#444444 gui=none
 hi Folded 		guibg=#384048 guifg=#a0a8b0 gui=none
 hi Title		guifg=#f6f3e8 guibg=NONE	gui=bold
 hi Visual		guifg=#f6f3e8 guibg=#444444 gui=none
-hi SpecialKey	guifg=#808080 guibg=#343434 gui=none
+hi SpecialKey	guifg=#808080 guibg=#333333 gui=none
 
 " Syntax highlighting
 hi Comment 		guifg=#666666 gui=italic
 hi Todo 		guifg=#8f8f8f gui=italic
 hi Constant 	guifg=#FF8431 gui=none
-hi String 		guifg=#9aca7e guibg=#212A24 gui=italic
+hi String 		guifg=#9aca7e guibg=#212A24
 hi Identifier 	guifg=#cae682 gui=none
 hi Type 		guifg=lightsalmon gui=none
 hi Statement 	guifg=#8ac6f2 gui=none
